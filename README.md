@@ -13,8 +13,19 @@
 
 ---
 
-### 📊 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical)
+<h2>📊 My GitHub Stats </h2>
+  
+  <!-- Общая статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=radical" alt="Общая статистика" />
+  
+  <!-- Любимые языки программирования -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=radical" alt="Любимые языки" />
+  
+  <!-- Streak Stats (дополнительно) -->
+  <img src="https://streak-stats.demolab.com?user=ваш_username&theme=radical" alt="Статистика активности" />
+  
+  <p>Эти виджеты автоматически обновляются и показывают мою активность на GitHub.</p>
+</div>
 
 ---
 
